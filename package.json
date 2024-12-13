@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^6.6.0",
+    "@fortawesome/free-brands-svg-icons": "^6.6.0",
+    "@fortawesome/free-regular-svg-icons": "^6.6.0",
+    "@fortawesome/free-solid-svg-icons": "^6.6.0",
+    "@fortawesome/react-fontawesome": "^0.2.2",
+    "@prisma/client": "^6.0.1",
+    "mongodb": "^6.11.0",
+    "use-router": "^0.4.2"
+  },
+  "devDependencies": {
+    "prisma": "^6.0.1"
+  }
+}
